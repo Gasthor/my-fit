@@ -6,6 +6,7 @@ export default function Home(){
         <MainLayout title={"Inicio - My Fit"}>
             <UserInformationView/>
             
+            
         </MainLayout>
     )
 }
